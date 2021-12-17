@@ -1,0 +1,35 @@
+body{
+font-family: verdana, sans-serif;
+  background-color: grey;
+
+}
+footer{
+background-color: green;
+
+}
+
+article{
+  background-color: cornsilk;
+  margin: 4px;
+  padding: 0 5px;
+}
+p{
+  color: grey;
+}
+
+
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+text-decoration: underline;
+
+}
+
+section{
+display: grid;
+grid-template-columns: 1fr 1fr;
+padding:10px
+
+}
